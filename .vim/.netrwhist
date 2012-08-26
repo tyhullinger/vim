@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/thullinger/Vagrant/drupal7/www/westernunion/svn/trunk/htdocs/sites/all/modules/contrib/nodeblock'
+let g:netrw_dirhist_2='/Users/thullinger/Vagrant/centos_lamp/modules/bootstrap'
+let g:netrw_dirhist_3='/Users/thullinger/Vagrant/drupal7/www/westernunion/htdocs/sites/all/themes/wubartik/stylesheets/sass'
+let g:netrw_dirhist_4='/Users/thullinger/.vim/bundle/python.vim'
+let g:netrw_dirhist_5='/Users/thullinger/.vim/autoload/ctrlp'
